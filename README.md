@@ -20,25 +20,31 @@ Database project, carried out in the 4th semester of studies at AGH.
 4) Some images of our website:
 
 1. Home:
-![Opis alternatywny](img/11.png)
+![Opis alternatywny](img/home.png)
 
 2. Movies:
-![Opis alternatywny](img/12.png)
+![Opis alternatywny](img/movies.png)
 
 3. Movie details and movie showtime:
-![Opis alternatywny](img/13.png)
+![Opis alternatywny](img/movie.png)
    
 4. Movie Stage: 
 ![Opis alternatywny](img/stage.png)
 
-5. My tickets:
-![Opis alternatywny](img/16.png)
+5. My tickets (without login):
+![Opis alternatywny](img/notickets.png)
 
-6. My profile:
-![Opis alternatywny](img/17.png)
+6. My tickets:
+![Opis alternatywny](img/tickets.png)
 
-7. Login:
-![Opis alternatywny](img/18.png)
+7. My profile:
+![Opis alternatywny](img/changepass.png)
 
-8. Register
-![Opis alternatywny](img/19.png)
+8. Login:
+![Opis alternatywny](img/login.png)
+
+9. Register
+![Opis alternatywny](img/register.png)
+
+10. Logout
+![Opis alternatywny](img/logout.png)
