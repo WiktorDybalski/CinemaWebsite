@@ -2,14 +2,14 @@
 
 Database project, carried out in the 4th semester of studies at AGH.
 
-1) Team members: 
-   - Stas Kochevenko | skochevenko@student.agh.edu.pl
+1) Team members:
    - Wiktor Dybalski | wdybalski@student.agh.edu.pl
+   - Stas Kochevenko | skochevenko@student.agh.edu.pl
 
-2) Project topic: 
+3) Project topic: 
    - Cinema web page (reservations, purchase of tickets, canceling reservations)
 
-3) Information about the technology and DBMS used:
+4) Information about the technology and DBMS used:
    - Data base server:
      PostgreSQL
    - Framework:
@@ -17,7 +17,7 @@ Database project, carried out in the 4th semester of studies at AGH.
    - Server part:
      Django (Python)
 
-4) Some images of our website:
+5) Some images of our website:
 
 1. Home:
 ![Opis alternatywny](img/home.png)
